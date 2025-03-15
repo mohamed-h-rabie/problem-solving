@@ -1,1 +1,1 @@
-Solving problems in codeصars
+Solving problems in codewars
